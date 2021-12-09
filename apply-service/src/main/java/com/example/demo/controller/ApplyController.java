@@ -5,5 +5,13 @@ public class ApplyController {
 		System.out.println("this is my controller class");
 	return "welcome to apply controller";
 	}
+	
+	public String message2() {
+	return "message2";
+	}
+	
+	public String message3() {
+		return "message2";
+		}
 
 }
